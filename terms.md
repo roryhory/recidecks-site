@@ -96,4 +96,4 @@ Continued use of the app means you accept the updated Terms.
 
 ## Contact
 
-Questions? Send an email to **contact@recidecks.com**
+Questions? Send an email to **support.recidecks@gmail.com**
