@@ -1,6 +1,6 @@
 # ReciDecks Support
 
-If you need help with Recidecks, please contact:
+If you need help with ReciDecks, please contact:
 
 support.recidecks@gmail.com
 
